@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template! 
-I am a Postdoctoral Scholar at the Institute of Climate and Sustainable Growth, under Climate System Engineering Initiative (CSEi) working with [Dr. Peter Irvine](https://pjirvine.github.io//).
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a Postdoctoral Scholar at the Institute of Climate and Sustainable Growth, under Climate System Engineering Initiative (CSEi) working with [Dr. Peter Irvine](https://pjirvine.github.io//). Currently, I am working to provide comprehensive evaluation of how effective Stratospheric Aerosol Injection (SAI) would be at offsetting the climate effects of global warming.
+Additionally, my Ph.D. research under the supervision of [Prof. Sandeep Sukumaran](https://web.iitd.ac.in/~san81/) has centered on studying the dynamical interaction between dry air advection and the Indian summer monsoon (ISM). I developed a dry air intrusion (DAI) index to investigate dry air advection activity during the ISM, incorporating parameters such as moisture deficit and zonal wind. By analyzing
+observational data and climate model simulations, including CMIP6 experiments and CESM1.2.2 model sensitivity experiments, I have gained insights into the effects of dry air
+intrusion on precipitation variability over continental India.   
 
 A data-driven personal website
 ======
