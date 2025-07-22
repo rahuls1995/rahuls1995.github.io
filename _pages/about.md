@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Scholar at the University of Chicago's [Institute for Climate and Sustainable Growth](https://climate.uchicago.edu) and the [Climate System Engineering Initiative (CSEi)](https://climateengineering.uchicago.edu), 
+I am a Postdoctoral Scholar at the University of Chicago's [Institute for Climate and Sustainable Growth](https://climate.uchicago.edu) and the [Climate Systems Engineering Initiative (CSEi)](https://climateengineering.uchicago.edu), 
 working with [Dr. Peter Irvine](https://pjirvine.github.io//). My current research focuses on assessing the efficacy of Stratospheric Aerosol Injection (SAI) in mitigating the impacts of 
 global warming. During my Ph.D. studies under the guidance of [Prof. Sandeep Sukumaran](https://web.iitd.ac.in/~san81/), I investigated the dynamic interaction between dry air advection and 
 the Indian summer monsoon (ISM). I developed a Dry Air Intrusion (DAI) index to analyze the influence of dry air advection on the ISM, incorporating parameters 
